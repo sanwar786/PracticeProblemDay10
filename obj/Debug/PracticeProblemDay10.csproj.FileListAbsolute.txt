@@ -1,0 +1,3 @@
+C:\Users\shaba\source\repos\PracticeProblemDay10\PracticeProblemDay10\obj\Debug\PracticeProblemDay10.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\PracticeProblemDay10\PracticeProblemDay10\obj\Debug\PracticeProblemDay10.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\PracticeProblemDay10\PracticeProblemDay10\obj\Debug\PracticeProblemDay10.csproj.CoreCompileInputs.cache
